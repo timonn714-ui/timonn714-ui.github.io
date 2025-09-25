@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timonn714-ui.github.io/sitemap.xml
